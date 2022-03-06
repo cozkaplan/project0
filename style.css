@@ -1,0 +1,25 @@
+input {
+    border-radius:50px;
+    text-align: center;
+}
+#navi {
+    position:absolute; right:20px; top:20px;
+    background-color: white;
+    padding: 1%;
+    border-radius:5px;
+}
+#search {
+    position: fixed; right: 30%; top: 30%;
+    background-color: white;
+    padding: 1%;
+    border-radius:5px;
+    text-align: center;
+}
+
+#asearch {
+    position: fixed; top: 30%;
+    background-color: white;
+    padding: 1%;
+    border-radius:5px;
+    text-align: left;
+}
